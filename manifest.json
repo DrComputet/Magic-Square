@@ -1,6 +1,6 @@
 {
-  "short_name": "Welcome",
-  "name": "Welcome App",
+  "short_name": "Magic Square",
+  "name": "Magic Square",
   "icons": [
     {
       "src": "icon-192.png",
